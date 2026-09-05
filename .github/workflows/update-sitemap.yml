@@ -1,0 +1,41 @@
+name: Update DAN Sitemap
+
+on:
+  schedule:
+    # Runs every Sunday at 00:00 UTC (weekly)
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  update-sitemap:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Regenerate Sitemap and URLs
+        run: python generate_dan_sitemap.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dan_sitemap.xml dan_urls.txt
+          if git diff --staged --quiet; then
+            echo "No changes detected in DAN pages."
+          else
+            echo "Changes detected! Committing and pushing updated sitemap."
+            git commit -m "Auto-update DAN sitemap [skip ci]"
+            git push origin main
+          fi
