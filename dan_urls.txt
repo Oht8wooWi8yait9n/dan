@@ -1691,6 +1691,7 @@ https://dan.org/dan-encourages-every-diver-to-be-a-member/
 https://dan.org/dan-enhanced-membership-map-quote/
 https://dan.org/dan-enhances-return-to-diving-guide-with-video/
 https://dan.org/dan-extends-liability-coverage-90-days-to-help-professionals-and-businesses/
+https://dan.org/dan-garmin-work-together-remote-diving-emergency-response/
 https://dan.org/dan-indonesia-one-thousand/
 https://dan.org/dan-introduces-2025-interns/
 https://dan.org/dan-introduces-newly-redesigned-website/
@@ -1755,6 +1756,7 @@ https://dan.org/event/bonairetek-bonaire/
 https://dan.org/event/boston-sea-rovers-show/
 https://dan.org/event/dan-100th-diving-hyperbaric-medicine/
 https://dan.org/event/dan-member-social-at-dema-2025/
+https://dan.org/event/dan-member-social-at-dema-2026/
 https://dan.org/event/dan-member-social-at-dema/
 https://dan.org/event/dan-uhms-fall-2024-diving-hyperbaric-medicine-cme/
 https://dan.org/event/dan-uhms-fall-2026-diving-hyperbaric-medicine-cme/
@@ -1765,7 +1767,6 @@ https://dan.org/event/instructor-training-dema/
 https://dan.org/event/long-beach-scuba-show/
 https://dan.org/event/reef-fest-2/
 https://dan.org/event/scuba-show/
-https://dan.org/event/scubacon/
 https://dan.org/event/uhms-fall-2025-diving-and-hyperbaric-medicine-cme/
 https://dan.org/events/
 https://dan.org/families-dive-community-honor-lives-lost-on-the-anniversary-of-the-m-v-conception-tragedy/
@@ -2042,7 +2043,6 @@ https://dan.org/professional-programs/program-resources/
 https://dan.org/professional-programs/pros-choose-dan/
 https://dan.org/professional-programs/referral-rewards/
 https://dan.org/pros-choose-dan-liability-insurance/
-https://dan.org/research-reports-grants-collaboration-unsolicited/
 https://dan.org/research-reports/
 https://dan.org/research-reports/2051-sea-odyssey/
 https://dan.org/research-reports/all-completed-studies/
@@ -2059,7 +2059,6 @@ https://dan.org/research-reports/get-involved/internships/
 https://dan.org/research-reports/get-involved/volunteer/
 https://dan.org/research-reports/grants-collaboration/
 https://dan.org/research-reports/grants-collaboration/alfred-bove-dan-research-grant-for-cardiac-health-in-scuba-diving/
-https://dan.org/research-reports/grants-collaboration/dan-r-w-bill-hamilton-research-grant/
 https://dan.org/research-reports/grants-collaboration/dan-rolex-diver-of-the-year-award/
 https://dan.org/research-reports/grants-collaboration/oxygen-grant-programs/
 https://dan.org/research-reports/grants-collaboration/research-at-dan/
@@ -2304,6 +2303,7 @@ https://dan.org/safety-prevention/diver-safety/divers-blog/dan-benefits-extend-b
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-celebrates-young-scholars-at-owuss-awards-weekend/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-emergency-hotline-new-zealand/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-expands-emergency-hotline-services-in-indonesia/
+https://dan.org/safety-prevention/diver-safety/divers-blog/dan-garmin-collaboration/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-launches-coned-course-3-barotrauma-legal-drama/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-liability-committed-to-a-stable-future/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-public-lecture-series-future-dive-leaders/
