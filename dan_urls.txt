@@ -1333,6 +1333,7 @@ https://dan.org/alert-diver/article/spearfishing-safety/
 https://dan.org/alert-diver/article/spinal-injuries/
 https://dan.org/alert-diver/article/spine-health/
 https://dan.org/alert-diver/article/sponsored-aggressor-adventures-announces-limited-time-700-savings-on-new-belize-south-itinerary/
+https://dan.org/alert-diver/article/sponsored-aggressor-adventures-announces-new-travel-with-the-ceo-weeks/
 https://dan.org/alert-diver/article/sponsored-aggressor-adventures-launches-mares-planet-62x-sweepstakes/
 https://dan.org/alert-diver/article/sponsored-aggressor-adventures-unveils-redesigned-red-sea-aggressor-ii/
 https://dan.org/alert-diver/article/sponsored-explorer-ventures-fleet-expands-global-fleet-with-two-new-liveaboards/
@@ -2300,6 +2301,7 @@ https://dan.org/safety-prevention/diver-safety/divers-blog/dan-2025-dema-show-re
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-announces-2026-interns/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-announces-support-for-rescue-diver-ready-initiative/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-at-dema-show-2025-member-guide/
+https://dan.org/safety-prevention/diver-safety/divers-blog/dan-at-dema-show-2026-member-guide/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-benefits-extend-beyond-diving/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-celebrates-young-scholars-at-owuss-awards-weekend/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-emergency-hotline-new-zealand/
@@ -2307,6 +2309,7 @@ https://dan.org/safety-prevention/diver-safety/divers-blog/dan-expands-emergency
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-garmin-collaboration/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-launches-coned-course-3-barotrauma-legal-drama/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-liability-committed-to-a-stable-future/
+https://dan.org/safety-prevention/diver-safety/divers-blog/dan-podcast-50-episodes/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-public-lecture-series-future-dive-leaders/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-uhms-asm-2024/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-uhms-asm-2025/
@@ -2520,3 +2523,4 @@ https://dan.org/site-map/
 https://dan.org/ssi-adopts-powered-by-dan-first-aid-programs/
 https://dan.org/terms-conditions/
 https://dan.org/test-tables/
+https://dan.org/the-dancast-marks-50-podcast-episodes/
