@@ -2047,12 +2047,13 @@ https://dan.org/professional-programs/referral-rewards/
 https://dan.org/pros-choose-dan-liability-insurance/
 https://dan.org/research-reports/
 https://dan.org/research-reports/2051-sea-odyssey/
+https://dan.org/research-reports/2051-sea-odyssey/docuseries-how-humans-became-aquatic-past-present-future/
+https://dan.org/research-reports/2051-sea-odyssey/educational-resources/
+https://dan.org/research-reports/2051-sea-odyssey/university-challenge/
 https://dan.org/research-reports/all-completed-studies/
 https://dan.org/research-reports/all-current-studies/
 https://dan.org/research-reports/completed-studies/
 https://dan.org/research-reports/current-research/
-https://dan.org/research-reports/docuseries-how-humans-became-aquatic-past-present-future/
-https://dan.org/research-reports/educational-resources/
 https://dan.org/research-reports/get-involved/
 https://dan.org/research-reports/get-involved/bubble-counting/
 https://dan.org/research-reports/get-involved/careers-in-dive-research/
@@ -2102,7 +2103,6 @@ https://dan.org/research-reports/research-studies/surveillance-of-fatal-injuries
 https://dan.org/research-reports/research-studies/symptoms-after-treatment-for-decompression-illness-a-prospective-survey/
 https://dan.org/research-reports/research-studies/the-mechanics-of-spinal-cord-decompression-sickness/
 https://dan.org/research-reports/research-studies/vrak-expedition/
-https://dan.org/research-reports/university-challenge/
 https://dan.org/research-studies/
 https://dan.org/richard-d-vann-legendary-researcher-and-champion-of-dive-safety/
 https://dan.org/richard-moon-m-d-named-2021-dan-rolex-diver-of-the-year/
