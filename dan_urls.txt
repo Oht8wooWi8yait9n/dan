@@ -1745,7 +1745,6 @@ https://dan.org/education-events/shows-and-events/pressure-change-and-barotrauma
 https://dan.org/education-events/shows-and-events/the-research-roadmap/
 https://dan.org/education-events/training/
 https://dan.org/emergency-room-resources-for-diving/
-https://dan.org/event/2024-bonairetek/
 https://dan.org/event/2024-dema-show/
 https://dan.org/event/2025-dema-show/
 https://dan.org/event/2025-midwest-public-safety-divers-association-conference/
@@ -1760,8 +1759,8 @@ https://dan.org/event/dan-100th-diving-hyperbaric-medicine/
 https://dan.org/event/dan-member-social-at-dema-2025/
 https://dan.org/event/dan-member-social-at-dema-2026/
 https://dan.org/event/dan-member-social-at-dema/
-https://dan.org/event/dan-uhms-fall-2024-diving-hyperbaric-medicine-cme/
 https://dan.org/event/dan-uhms-fall-2026-diving-hyperbaric-medicine-cme/
+https://dan.org/event/dan-uhms-fall-2027-diving-hyperbaric-medicine-cme/
 https://dan.org/event/dan-uhms-spring-2025-diving-hyperbaric-medicine-cme/
 https://dan.org/event/dan-uhms-spring-2026-diving-hyperbaric-medicine-cme/
 https://dan.org/event/dxdivers-deerfield-beach-underwater-pier-clean-up-2025/
