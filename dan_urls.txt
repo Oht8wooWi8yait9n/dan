@@ -18,6 +18,7 @@ https://dan.org/alert-diver/article/a-beautiful-invasion/
 https://dan.org/alert-diver/article/a-brief-history-of-imax-underwater/
 https://dan.org/alert-diver/article/a-brief-on-briefings/
 https://dan.org/alert-diver/article/a-call-to-action-for-divers-to-support-our-nations-sanctuaries/
+https://dan.org/alert-diver/article/a-case-for-the-220-volt-power-strip/
 https://dan.org/alert-diver/article/a-cleaner-brighter-future/
 https://dan.org/alert-diver/article/a-clear-picture/
 https://dan.org/alert-diver/article/a-close-call-in-the-caribbean/
@@ -62,6 +63,7 @@ https://dan.org/alert-diver/article/a-slugs-life/
 https://dan.org/alert-diver/article/a-snails-tale/
 https://dan.org/alert-diver/article/a-tale-of-two-bays-monterey-carmel/
 https://dan.org/alert-diver/article/a-tale-of-two-passes/
+https://dan.org/alert-diver/article/a-timeline-of-decompression-stress-2/
 https://dan.org/alert-diver/article/a-timeline-of-decompression-stress/
 https://dan.org/alert-diver/article/a-touch-of-ripley/
 https://dan.org/alert-diver/article/a-tourniquet-saves-a-divers-life/
@@ -75,6 +77,7 @@ https://dan.org/alert-diver/article/action-cameras/
 https://dan.org/alert-diver/article/adrift/
 https://dan.org/alert-diver/article/advanced-underwater-navigation/
 https://dan.org/alert-diver/article/advancing-conservation-through-citizen-science/
+https://dan.org/alert-diver/article/advancing-dive-safety-through-collaboration/
 https://dan.org/alert-diver/article/advice-support-and-a-lifeline/
 https://dan.org/alert-diver/article/african-dust/
 https://dan.org/alert-diver/article/after-the-accident/
@@ -154,6 +157,7 @@ https://dan.org/alert-diver/article/be-informed-and-stay-calm/
 https://dan.org/alert-diver/article/beauty-and-brawn/
 https://dan.org/alert-diver/article/beavers-natures-ecosystem-engineers/
 https://dan.org/alert-diver/article/becky-kagan-schott/
+https://dan.org/alert-diver/article/before-an-incident-happens/
 https://dan.org/alert-diver/article/before-the-breath-runs-out/
 https://dan.org/alert-diver/article/beginner-bike-training/
 https://dan.org/alert-diver/article/beguiling-backgrounds%ef%bf%bc/
@@ -166,6 +170,7 @@ https://dan.org/alert-diver/article/beneath-the-fin/
 https://dan.org/alert-diver/article/benefits-of-group-travel/
 https://dan.org/alert-diver/article/bent-in-baja/
 https://dan.org/alert-diver/article/bent-in-chuuk/
+https://dan.org/alert-diver/article/bermuda-bounty/
 https://dan.org/alert-diver/article/bermuda/
 https://dan.org/alert-diver/article/best-practices-for-disinfecting-dive-equipment/
 https://dan.org/alert-diver/article/better-safe-than-sorry/
@@ -297,6 +302,7 @@ https://dan.org/alert-diver/article/compact-cameras-for-underwater-use/
 https://dan.org/alert-diver/article/complex-exercises-for-the-body-and-brain/
 https://dan.org/alert-diver/article/composite-scuba-cylinders/
 https://dan.org/alert-diver/article/compressors/
+https://dan.org/alert-diver/article/concerns-of-the-aging-diver/
 https://dan.org/alert-diver/article/conch/
 https://dan.org/alert-diver/article/concussed-in-colombia/
 https://dan.org/alert-diver/article/concussions-and-diving/
@@ -513,10 +519,12 @@ https://dan.org/alert-diver/article/diving-into-lake-champlains-history/
 https://dan.org/alert-diver/article/diving-on-sunshine/
 https://dan.org/alert-diver/article/diving-out-of-bounds/
 https://dan.org/alert-diver/article/diving-the-clotilda/
+https://dan.org/alert-diver/article/diving-the-guvernoren/
 https://dan.org/alert-diver/article/diving-the-world-heritage-list/
 https://dan.org/alert-diver/article/diving-wild-in-browning-pass-british-columbia/
 https://dan.org/alert-diver/article/diving-with-a-pfo/
 https://dan.org/alert-diver/article/diving-with-a-purpose-in-national-marine-sanctuaries/
+https://dan.org/alert-diver/article/diving-with-a-tracheostomy/
 https://dan.org/alert-diver/article/diving-with-an-infectious-disease/
 https://dan.org/alert-diver/article/diving-with-dental-implants/
 https://dan.org/alert-diver/article/diving-with-diabetes-2/
@@ -547,6 +555,7 @@ https://dan.org/alert-diver/article/dragons-pygmies-and-mantas/
 https://dan.org/alert-diver/article/drinking-and-diving-is-it-safe/
 https://dan.org/alert-diver/article/drowning-from-the-inside-out/
 https://dan.org/alert-diver/article/dry-diving-in-a-hyperbaric-system/
+https://dan.org/alert-diver/article/drysuit-buoyancy/
 https://dan.org/alert-diver/article/drysuit-difficulty/
 https://dan.org/alert-diver/article/due-diligence-for-parents-of-young-divers/
 https://dan.org/alert-diver/article/dutch-springs/
@@ -583,6 +592,7 @@ https://dan.org/alert-diver/article/environmental-considerations-for-disinfectio
 https://dan.org/alert-diver/article/environmental-stewardship/
 https://dan.org/alert-diver/article/equipment-for-dive-emergency-prevention-response/
 https://dan.org/alert-diver/article/equipment-maintenance-2/
+https://dan.org/alert-diver/article/eric-cheng/
 https://dan.org/alert-diver/article/erin-quigley/
 https://dan.org/alert-diver/article/escape-from-the-bubble-cloud/
 https://dan.org/alert-diver/article/establishing-a-baseline/
@@ -600,6 +610,7 @@ https://dan.org/alert-diver/article/exercises-to-improve-body-brain-power/
 https://dan.org/alert-diver/article/exercises-to-reduce-prevent-knee-pain/
 https://dan.org/alert-diver/article/exercising-after-a-break/
 https://dan.org/alert-diver/article/exiting-a-plane-during-an-emergency/
+https://dan.org/alert-diver/article/exiting-the-water/
 https://dan.org/alert-diver/article/expanding-my-dive-portfolio/
 https://dan.org/alert-diver/article/expedition-twilight-zone/
 https://dan.org/alert-diver/article/experience-and-risk/
@@ -614,6 +625,7 @@ https://dan.org/alert-diver/article/facial-baroparesis/
 https://dan.org/alert-diver/article/fangs/
 https://dan.org/alert-diver/article/farewell/
 https://dan.org/alert-diver/article/farfak/
+https://dan.org/alert-diver/article/fatality-and-injury-monitoring-program/
 https://dan.org/alert-diver/article/feeling-groovy-in-little-cayman/
 https://dan.org/alert-diver/article/field-management-of-heat-illness-and-hypothermia/
 https://dan.org/alert-diver/article/field-management-of-musculoskeletal-injuries/
@@ -811,6 +823,7 @@ https://dan.org/alert-diver/article/it-takes-only-one-good-fish/
 https://dan.org/alert-diver/article/its-all-about-the-toys/
 https://dan.org/alert-diver/article/its-all-in-the-name/
 https://dan.org/alert-diver/article/its-the-little-things/
+https://dan.org/alert-diver/article/japan/
 https://dan.org/alert-diver/article/japans-little-fish-with-a-big-heart/
 https://dan.org/alert-diver/article/jardines-de-la-reina/
 https://dan.org/alert-diver/article/jellyfish/
@@ -889,6 +902,7 @@ https://dan.org/alert-diver/article/lower-body-strength/
 https://dan.org/alert-diver/article/lunar-inspiration-in-palau/
 https://dan.org/alert-diver/article/lung-expansion-injuries/
 https://dan.org/alert-diver/article/lung-on-a-chip/
+https://dan.org/alert-diver/article/mafia-island/
 https://dan.org/alert-diver/article/maintain-your-gear/
 https://dan.org/alert-diver/article/maintaining-expertise/
 https://dan.org/alert-diver/article/maintaining-fitness-on-a-liveaboard/
@@ -952,6 +966,7 @@ https://dan.org/alert-diver/article/michael-lombardi-immersed-in-science/
 https://dan.org/alert-diver/article/microbial-hazards/
 https://dan.org/alert-diver/article/mighty-mouths/
 https://dan.org/alert-diver/article/mike-bartick-blackwater-beckons/
+https://dan.org/alert-diver/article/mike-bartick/
 https://dan.org/alert-diver/article/military-diving/
 https://dan.org/alert-diver/article/minimizing-lift-bag-risks/
 https://dan.org/alert-diver/article/mismatched-scuba-valves-to-cylinder-outlets/
@@ -1134,6 +1149,7 @@ https://dan.org/alert-diver/article/public-safety-announcement-spearfishing-safe
 https://dan.org/alert-diver/article/public-safety-announcement-when-should-i-call-my-doctor/
 https://dan.org/alert-diver/article/public-safety-diving/
 https://dan.org/alert-diver/article/puerto-galera/
+https://dan.org/alert-diver/article/puget-sound/
 https://dan.org/alert-diver/article/pushing-the-envelope/
 https://dan.org/alert-diver/article/put-peace-of-mind-on-your-packing-list/
 https://dan.org/alert-diver/article/pygmy-seahorses/
@@ -1147,6 +1163,7 @@ https://dan.org/alert-diver/article/rate-your-flexibility/
 https://dan.org/alert-diver/article/ray-dalio/
 https://dan.org/alert-diver/article/ray-of-hope/
 https://dan.org/alert-diver/article/readiness-made-the-difference/
+https://dan.org/alert-diver/article/reading-the-reef/
 https://dan.org/alert-diver/article/rebreather-myths/
 https://dan.org/alert-diver/article/rebreathers-boon-or-bane/
 https://dan.org/alert-diver/article/recognition-is-essential/
@@ -1194,11 +1211,13 @@ https://dan.org/alert-diver/article/risk-and-redundancy/
 https://dan.org/alert-diver/article/river-diving/
 https://dan.org/alert-diver/article/roatan-photo-gallery/
 https://dan.org/alert-diver/article/roatan/
+https://dan.org/alert-diver/article/root-causes-of-an-unusual-encounter/
 https://dan.org/alert-diver/article/royal-bermuda-regiment-coast-guard-divers/
 https://dan.org/alert-diver/article/rumpowered-research/
 https://dan.org/alert-diver/article/safe-diving-in-fresh-water/
 https://dan.org/alert-diver/article/safer-diving-for-all/
 https://dan.org/alert-diver/article/safety-equipment/
+https://dan.org/alert-diver/article/safety-is-a-standard-not-a-goal/
 https://dan.org/alert-diver/article/safety-tips-for-dive-operators-and-professionals/
 https://dan.org/alert-diver/article/saint-lucia/
 https://dan.org/alert-diver/article/salish-sea-photo-gallery/
@@ -1249,6 +1268,7 @@ https://dan.org/alert-diver/article/serpents-of-the-shallows/
 https://dan.org/alert-diver/article/setting-an-hira-standard/
 https://dan.org/alert-diver/article/setting-up-a-home-fitness-gym/
 https://dan.org/alert-diver/article/severe-dcs-in-the-south-pacific/
+https://dan.org/alert-diver/article/sex-lives-of-rock-stars/
 https://dan.org/alert-diver/article/shallow-water-arterial-gas-embolisms/
 https://dan.org/alert-diver/article/shallow-water-blackout/
 https://dan.org/alert-diver/article/shared-sparks/
@@ -1316,6 +1336,7 @@ https://dan.org/alert-diver/article/solo-galapagos-traveler/
 https://dan.org/alert-diver/article/solomon-islands-evacuation/
 https://dan.org/alert-diver/article/solomon-islands-photo-gallery/
 https://dan.org/alert-diver/article/solomons-sojourn/
+https://dan.org/alert-diver/article/someone-looking-back/
 https://dan.org/alert-diver/article/sore-toes-dcs-or-fin-foot/
 https://dan.org/alert-diver/article/sos-hyperlite-1-hyperbaric-chamber-demonstration/
 https://dan.org/alert-diver/article/sound-in-the-silence/
@@ -1334,6 +1355,7 @@ https://dan.org/alert-diver/article/spinal-injuries/
 https://dan.org/alert-diver/article/spine-health/
 https://dan.org/alert-diver/article/sponsored-aggressor-adventures-announces-last-minute-1000-savings-on-belize-aggressor-iii/
 https://dan.org/alert-diver/article/sponsored-aggressor-adventures-announces-limited-time-700-savings-on-new-belize-south-itinerary/
+https://dan.org/alert-diver/article/sponsored-aggressor-adventures-announces-new-madagascar-aggressor-destination-for-2027/
 https://dan.org/alert-diver/article/sponsored-aggressor-adventures-to-announce-new-destination-at-dema-show-2026/
 https://dan.org/alert-diver/article/sponsored-explorer-ventures-fleet-expands-global-fleet-with-two-new-liveaboards/
 https://dan.org/alert-diver/article/springs-of-central-texas/
@@ -1482,6 +1504,7 @@ https://dan.org/alert-diver/article/the-restoration-revolution/
 https://dan.org/alert-diver/article/the-revillagigedos-islands/
 https://dan.org/alert-diver/article/the-right-to-refuse-service/
 https://dan.org/alert-diver/article/the-safety-paradox/
+https://dan.org/alert-diver/article/the-sargassum-surge/
 https://dan.org/alert-diver/article/the-secret-lives-of-corals/
 https://dan.org/alert-diver/article/the-shifting-sea/
 https://dan.org/alert-diver/article/the-shipwrecks-of-the-florida-keys/
@@ -1513,6 +1536,7 @@ https://dan.org/alert-diver/article/tips-for-safer-boat-diving/
 https://dan.org/alert-diver/article/titan-meets-titanic/
 https://dan.org/alert-diver/article/to-eat-or-not-to-eat-fish/
 https://dan.org/alert-diver/article/to-lie-or-not-to-lie/
+https://dan.org/alert-diver/article/to-protect-and-preserve/
 https://dan.org/alert-diver/article/tobacco-marijuana-and-asthma/
 https://dan.org/alert-diver/article/tobago/
 https://dan.org/alert-diver/article/tobermory-ontario/
@@ -1523,6 +1547,7 @@ https://dan.org/alert-diver/article/tools-for-a-healthy-drysuit/
 https://dan.org/alert-diver/article/torpedo-rays/
 https://dan.org/alert-diver/article/touch-and-go-in-tonga/
 https://dan.org/alert-diver/article/tough-neighborhood/
+https://dan.org/alert-diver/article/training-1000-people-in-1000-days/
 https://dan.org/alert-diver/article/training-beyond-borders/
 https://dan.org/alert-diver/article/training-is-everything-in-a-rescue-attempt/
 https://dan.org/alert-diver/article/training-turns-incidents-into-inconveniences/
@@ -1630,9 +1655,11 @@ https://dan.org/alert-diver/article/when-gas-goes-bad/
 https://dan.org/alert-diver/article/when-history-seemingly-repeats-itself/
 https://dan.org/alert-diver/article/when-one-on-one-come-together-in-greenland/
 https://dan.org/alert-diver/article/when-should-the-rescue-begin/
+https://dan.org/alert-diver/article/when-the-divemaster-needs-rescuing/
 https://dan.org/alert-diver/article/when-the-unexpected-happens/
 https://dan.org/alert-diver/article/when-the-world-changes-your-dive-plans/
 https://dan.org/alert-diver/article/when-things-go-wrong/
+https://dan.org/alert-diver/article/when-time-matters/
 https://dan.org/alert-diver/article/when-tiny-toxins-fight-back/
 https://dan.org/alert-diver/article/when-training-takes-over/
 https://dan.org/alert-diver/article/where-mermaids-fear-to-tread/
