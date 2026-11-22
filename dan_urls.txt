@@ -1353,6 +1353,7 @@ https://dan.org/alert-diver/article/speared-by-a-spearfish/
 https://dan.org/alert-diver/article/spearfishing-safety/
 https://dan.org/alert-diver/article/spinal-injuries/
 https://dan.org/alert-diver/article/spine-health/
+https://dan.org/alert-diver/article/sponsored-aggressor-adventures-announces-2028-explore-the-world-weeks/
 https://dan.org/alert-diver/article/sponsored-aggressor-adventures-announces-last-minute-1000-savings-on-belize-aggressor-iii/
 https://dan.org/alert-diver/article/sponsored-aggressor-adventures-announces-limited-time-700-savings-on-new-belize-south-itinerary/
 https://dan.org/alert-diver/article/sponsored-aggressor-adventures-announces-new-madagascar-aggressor-destination-for-2027/
@@ -1787,13 +1788,11 @@ https://dan.org/event/boston-sea-rovers-show/
 https://dan.org/event/dan-100th-diving-hyperbaric-medicine/
 https://dan.org/event/dan-member-social-at-dema-2025/
 https://dan.org/event/dan-member-social-at-dema-2026/
-https://dan.org/event/dan-member-social-at-dema/
 https://dan.org/event/dan-uhms-fall-2026-diving-hyperbaric-medicine-cme/
 https://dan.org/event/dan-uhms-fall-2027-diving-hyperbaric-medicine-cme/
 https://dan.org/event/dan-uhms-spring-2025-diving-hyperbaric-medicine-cme/
 https://dan.org/event/dan-uhms-spring-2026-diving-hyperbaric-medicine-cme/
 https://dan.org/event/dxdivers-deerfield-beach-underwater-pier-clean-up-2025/
-https://dan.org/event/instructor-training-dema/
 https://dan.org/event/long-beach-scuba-show/
 https://dan.org/event/scuba-show/
 https://dan.org/event/uhms-fall-2025-diving-and-hyperbaric-medicine-cme/
@@ -2325,6 +2324,7 @@ https://dan.org/safety-prevention/diver-safety/divers-blog/cpr-and-covid-19/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-1000-first-aid-indonesia/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-2024-dema-show-recap/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-2025-dema-show-recap/
+https://dan.org/safety-prevention/diver-safety/divers-blog/dan-2026-dema-show-recap/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-announces-2026-interns/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-announces-support-for-rescue-diver-ready-initiative/
 https://dan.org/safety-prevention/diver-safety/divers-blog/dan-at-dema-show-2025-member-guide/
